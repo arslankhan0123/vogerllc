@@ -45,7 +45,7 @@
         }
 
         .login-btn {
-            background-color: #007bff;
+            background-color: #c1121f;
             border: none;
             border-radius: 8px;
             padding: 10px;
@@ -56,7 +56,7 @@
         }
 
         .login-btn:hover {
-            background-color: #0056b3;
+            background-color: #780000;
         }
 
         .input-group-text {
@@ -66,7 +66,7 @@
         }
 
         a {
-            color: #007bff;
+            color: #c1121f;
             text-decoration: none;
             font-size: 0.9rem;
         }
