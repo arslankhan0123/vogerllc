@@ -172,7 +172,7 @@
                             <i class="bi bi-telephone-fill me-2"></i> (833) 621-7696
                         </a>
                         <a href="#contact" class="btn btn-outline-light rounded-pill px-4 py-2 border-2 d-flex align-items-center">
-                            Get in Touch
+                            Contact Us
                         </a>
                     </div>
                 </div>
