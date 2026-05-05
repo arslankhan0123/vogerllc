@@ -3,7 +3,8 @@
         <div class="row gy-4">
             <div class="col-lg-4 col-md-6 footer-about">
                 <a href="{{route('welcome')}}" class="d-flex align-items-center">
-                    <span class="sitename">Voger LLC</span>
+                    <!-- <span class="sitename">Voger LLC</span> -->
+                     <img src="{{ asset('voger_logo_old.png') }}" height="65" alt="Voger LLC">
                 </a>
                 <div class="footer-contact pt-3">
                     <p>We offer high-speed internet, crystal-clear TV, reliable phone services, mobile plans, cable

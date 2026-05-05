@@ -2,7 +2,8 @@
   <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
     <a href="{{route('welcome')}}" class="logo d-flex align-items-center">
-      <h1 class="sitename">Voger LLC</h1>
+      <!-- <h1 class="sitename">Voger LLC</h1> -->
+      <img src="{{ asset('voger_logo.png') }}" height="65" alt="Voger LLC">
     </a>
 
     <!-- Centered Nav -->
