@@ -1,5 +1,5 @@
 @extends('layouts.landing.main')
-@section('title', 'Home - Wavesync')
+@section('title', 'Home - Voger LLC')
 @section('content')
 <section id="hero" class="hero section dark-background">
     <div class="container position-relative">

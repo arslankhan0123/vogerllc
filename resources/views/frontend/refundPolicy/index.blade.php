@@ -1,5 +1,5 @@
 @extends('layouts.landing.main')
-@section('title', 'Refund Policy')
+@section('title', 'Refund Policy - Voger LLC')
 @section('content')
 <section id="hero" class="hero section dark-background">
     <div class="container position-relative">
