@@ -67,6 +67,8 @@
     <!-- Main JS File -->
     <script src="{{ asset('landingPage/assets/js/main.js') }}"></script>
 
+    @stack('scripts')
+
 </body>
 
 </html>

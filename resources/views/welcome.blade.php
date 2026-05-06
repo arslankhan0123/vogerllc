@@ -415,7 +415,7 @@
 
                 <div class="col-lg-7">
                     <div class="bg-white p-4 p-lg-5 rounded-4 shadow-sm border">
-                        <form id="contact-form" action="#" method="post" class="php-email-form">
+                        <form id="contact-form" action="#" method="post" class="custom-php-email-form">
                             @csrf
                             <div class="row gy-4">
                                 <div class="col-md-6">
@@ -458,6 +458,7 @@
     $(document).ready(function () {
         $('#contact-form').on('submit', function (e) {
             e.preventDefault();
+            e.stopImmediatePropagation();
 
             let form = $(this);
             let formData = new FormData(this);

@@ -21,6 +21,8 @@ Route::get('/', function () {
     return view('welcome', compact('services'));
 })->name('welcome');
 
+Route::post('/', [ContactController::class, 'store']);
+
 Route::get('/dashboard', function () {
     $services = Service::all();
     $contacts = Contact::all();
