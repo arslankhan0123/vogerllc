@@ -250,7 +250,7 @@
                         <i class="bi bi-headset"></i>
                     </div>
                     <h4>6. Contact Our Billing Support</h4>
-                    <p>If you believe an incorrect charge has been applied to your account or require assistance navigating a billing dispute, our dedicated support team is ready to assist. Please reach out via phone at <strong>(833) 621-7696</strong> or email us at <strong>sales@vogerllc.com</strong>. We aim to resolve all billing concerns professionally and promptly.</p>
+                    <p>If you believe an incorrect charge has been applied to your account or require assistance navigating a billing dispute, our dedicated support team is ready to assist. Please reach out via phone at <strong>(833) 536-7944</strong> or email us at <strong>sales@vogerllc.com</strong>. We aim to resolve all billing concerns professionally and promptly.</p>
                 </div>
             </div>
 

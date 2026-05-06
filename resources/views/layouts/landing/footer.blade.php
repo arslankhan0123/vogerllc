@@ -55,8 +55,8 @@
                 <h4>Address</h4>
                 <p>Get in touch with us using the contact details below—we’re here to help!</p>
                 <div class="footer-contact">
-                    <p><strong>Address:</strong>7811 5th Ave #33 Brooklyn, NY 11209</p>
-                    <p><strong>Phone:</strong> <span>(833) 621-7696</span></p>
+                    <p><strong>Address:</strong> 879 Monroe blvd, Long Beach, NY 11561</p>
+                    <p><strong>Phone:</strong> <span>(833) 536-7944</span></p>
                     <p><strong>Email:</strong> <span>sales@vogerllc.com</span></p>
                 </div>
 

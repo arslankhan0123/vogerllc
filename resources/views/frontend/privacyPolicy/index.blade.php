@@ -242,7 +242,7 @@
                         <i class="bi bi-headset"></i>
                     </div>
                     <h4>7. Reach Out to Our Privacy Team</h4>
-                    <p>For any questions, data access requests, or concerns regarding how your personal information is handled, we encourage you to reach out to our dedicated privacy team. We are committed to addressing your inquiries with transparency, care, and urgency. Contact us at <strong>sales@vogerllc.com</strong> or call <strong>(833) 621-7696</strong>.</p>
+                    <p>For any questions, data access requests, or concerns regarding how your personal information is handled, we encourage you to reach out to our dedicated privacy team. We are committed to addressing your inquiries with transparency, care, and urgency. Contact us at <strong>sales@vogerllc.com</strong> or call <strong>(833) 536-7944</strong>.</p>
                 </div>
             </div>
 

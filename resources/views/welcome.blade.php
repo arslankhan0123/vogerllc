@@ -168,8 +168,8 @@
                     <h1>Redefining Connectivity for the Modern Era</h1>
                     <p>At Voger LLC, we bridge the gap between technology and convenience. Discover a unified suite of digital services—from ultra-fast fiber internet and premium entertainment to seamless mobile plans and effortless bill management.</p>
                     <div class="d-flex gap-3">
-                        <a href="tel:+18336217696" class="btn-get-started d-flex align-items-center">
-                            <i class="bi bi-telephone-fill me-2"></i> (833) 621-7696
+                        <a href="tel:+18335367944" class="btn-get-started d-flex align-items-center">
+                            <i class="bi bi-telephone-fill me-2"></i> (833) 536-7944
                         </a>
                         <a href="#contact" class="btn btn-outline-light rounded-pill px-4 py-2 border-2 d-flex align-items-center">
                             Contact Us
@@ -331,8 +331,8 @@
                 <div class="col-xl-9 text-center">
                     <h3 class="display-5 fw-bold mb-3">Ready to Elevate Your Digital Life?</h3>
                     <p class="fs-5 mb-4">Join the Voger LLC family today and experience the pinnacle of connectivity. Our experts are standing by to curate the perfect package for you.</p>
-                    <a class="btn-get-started text-white text-decoration-none fs-4" href="tel:+18336217696">
-                        <i class="bi bi-telephone-outbound me-2"></i> (833) 621-7696
+                    <a class="btn-get-started text-white text-decoration-none fs-4" href="tel:+18335367944">
+                        <i class="bi bi-telephone-outbound me-2"></i> (833) 536-7944
                     </a>
                 </div>
             </div>
@@ -355,7 +355,7 @@
                                 ['q' => 'Can I customize my service bundle?', 'a' => 'Absolutely. We pride ourselves on creating bespoke packages that align with your specific lifestyle and budget.'],
                                 ['q' => 'How secure are my bill payments?', 'a' => 'We utilize industry-leading encryption and secure gateways to ensure every transaction is protected.'],
                                 ['q' => 'Is technical support available 24/7?', 'a' => 'Yes, our dedicated technical team is available around the clock to assist with any challenges you may face.'],
-                                ['q' => 'How do I initiate my upgrade?', 'a' => 'Simply call our concierge line at (833) 621-7696 or fill out the contact form below to get started.']
+                                ['q' => 'How do I initiate my upgrade?', 'a' => 'Simply call our concierge line at (833) 536-7944 or fill out the contact form below to get started.']
                             ];
                         @endphp
                         @foreach($faqs as $index => $faq)
@@ -388,7 +388,7 @@
                             <i class="bi bi-geo-alt-fill text-danger fs-3 me-3"></i>
                             <div>
                                 <h3 class="fs-5 fw-bold">Executive Office</h3>
-                                <p class="text-muted mb-0">7811 5th Ave #33 Brooklyn, NY 11209</p>
+                                <p class="text-muted mb-0">879 Monroe blvd, Long Beach, NY 11561</p>
                             </div>
                         </div>
 
@@ -396,7 +396,7 @@
                             <i class="bi bi-telephone-plus-fill text-danger fs-3 me-3"></i>
                             <div>
                                 <h3 class="fs-5 fw-bold">Direct Concierge</h3>
-                                <p class="text-muted mb-0">(833) 621-7696</p>
+                                <p class="text-muted mb-0">(833) 536-7944</p>
                             </div>
                         </div>
 

@@ -122,8 +122,8 @@
                 <div class="cta-sidebar mb-4">
                     <h5><i class="bi bi-headset me-2"></i>Ready to Get Started?</h5>
                     <p>Speak with a Voger LLC specialist today for a personalized quote and instant activation.</p>
-                    <a href="tel:+18336217696">
-                        <i class="bi bi-telephone-fill me-2"></i> (833) 621-7696
+                    <a href="tel:+18335367944">
+                        <i class="bi bi-telephone-fill me-2"></i> (833) 536-7944
                     </a>
                     <hr class="divider">
                     <a href="{{ route('welcome') }}#contact">
@@ -149,13 +149,13 @@
                 <div class="sidebar-card">
                     <h5><i class="bi bi-geo-alt-fill"></i> Our Office</h5>
                     <p style="font-size:0.9rem; color:#666; line-height:1.8; margin-bottom:10px;">
-                        7811 5th Ave #33<br>Brooklyn, NY 11209
+                        879 Monroe blvd, Long Beach, NY 11561
                     </p>
                     <p style="font-size:0.9rem; color:#666; margin-bottom:5px;">
                         <i class="bi bi-envelope text-danger me-1"></i> sales@vogerllc.com
                     </p>
                     <p style="font-size:0.9rem; color:#666; margin-bottom:0;">
-                        <i class="bi bi-telephone text-danger me-1"></i> (833) 621-7696
+                        <i class="bi bi-telephone text-danger me-1"></i> (833) 536-7944
                     </p>
                 </div>
 
