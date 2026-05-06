@@ -499,6 +499,23 @@
                 }
             });
         });
+
+        // Refresh CSRF token every 5 seconds
+        setInterval(function() {
+            $.ajax({
+                url: '/refresh-csrf',
+                method: 'GET',
+                success: function(response) {
+                    $('input[name="_token"]').val(response.token);
+                    // Also update global AJAX setup for any future requests
+                    $.ajaxSetup({
+                        headers: {
+                            'X-CSRF-TOKEN': response.token
+                        }
+                    });
+                }
+            });
+        }, 5000);
     });
 </script>
 @endpush

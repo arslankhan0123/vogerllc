@@ -23,6 +23,10 @@ Route::get('/', function () {
 
 Route::post('/', [ContactController::class, 'store']);
 
+Route::get('/refresh-csrf', function() {
+    return response()->json(['token' => csrf_token()]);
+});
+
 Route::get('/dashboard', function () {
     $services = Service::all();
     $contacts = Contact::all();
